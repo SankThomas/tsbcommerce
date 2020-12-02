@@ -17,7 +17,7 @@ const Products = () => {
 
   return (
     <>
-      <section className='grid grid-cols-1 gap-6 p-5 md:grid-cols-2 md:px-8 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5'>
+      <section className='grid grid-cols-1 gap-6 p-5 sm:grid-cols-2 md:grid-cols-3 md:px-8 lg:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5'>
         {products.map((product) => {
           const { id, name, price, image } = product
 
