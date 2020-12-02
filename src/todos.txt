@@ -10,3 +10,4 @@
 // Use tailwind css
 // React pagination - Maybe infinite scrolling?
 // Replace bluetooth image for id: 3 with mouse image
+// Remember to compress images
