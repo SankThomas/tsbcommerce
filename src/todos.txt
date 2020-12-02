@@ -1,0 +1,12 @@
+// id, name, title, description, rating, price, add to wishlist, category (tags), featured, features of product, shipped from, arrival in, inStock, outOfStock (Display different colors for in and out of stock, preferrable green and red of course), verified
+// Check uuid documentation to see whether you can add ids for products
+// For each individual product page:
+// - More pictures, more detailed description, input to change order quantity
+// Find a way to add ratings dynamically, meaning:
+// - Add stars, add ability to select star rating, display overall (average) star rating by checking previous scores and calculating the mean
+// Quality rating, for new, old and used products.
+// Add dropdown menu on hover to show the options on that menu, maybe categories. Use heights instead of display: none.
+// Individual components for every category?
+// Use tailwind css
+// React pagination - Maybe infinite scrolling?
+// Replace bluetooth image for id: 3 with mouse image
